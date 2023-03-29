@@ -1,0 +1,15 @@
+{
+  "name": "rayfed",
+  "version": "1.0.0",
+  "description": "![docs building](https://readthedocs.org/projects/rayfed/badge/?version=latest) ![test on ray 2.0.0](https://github.com/ray-project/rayfed/actions/workflows/test_on_ray2.0.0.yml/badge.svg) ![test on ray 1.13.0](https://github.com/ray-project/rayfed/actions/workflows/test_on_ray1.13.0.yml/badge.svg)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
